@@ -1,1 +1,7 @@
 # CRA_5
+
+D1 V
+D2 V
+D3 V
+D4 V
+D5 V
